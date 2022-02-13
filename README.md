@@ -3,7 +3,7 @@
 ![Screenshot](https://rumkugel13.github.io/content/images/minesweeper_wpf_screenshot.png)
 
 ## About
-A classic minesweeper game made in WPF.
+A classic [minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) game made in WPF.
 
 # Build Instructions
 
